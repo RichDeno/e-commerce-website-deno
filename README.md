@@ -26,7 +26,6 @@ Payment Processing:
 
 Integration with a payment gateway (e.g., Stripe)
 Installation
-Clone this repository: git clone https://github.com/your-username/sneaker-haven.git
 
 Install dependencies: npm install
 
